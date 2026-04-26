@@ -53,11 +53,6 @@ QuickCart/
 ---
 
 
-## 📸 Screenshots
-
-![QuickCart Screenshot](Screenshot20%(167).png)
-
----
 
 ## 📈 Future Improvements
 
