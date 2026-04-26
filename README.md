@@ -52,19 +52,10 @@ QuickCart/
 
 ---
 
-## ⚙️ How to Run Locally
-
-```bash
-git clone https://github.com/sohib-ezaldeen/quickcart.git
-cd quickcart
-open index.html
-```
-
----
 
 ## 📸 Screenshots
 
-![QuickCart Screenshot](./Screenshot(169).png)
+![QuickCart Screenshot](Screenshot(167).png)
 
 ---
 
