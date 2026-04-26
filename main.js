@@ -230,6 +230,7 @@ function rendercart() {
   btnConfirm.textContent = "Confirma Oreder";
   btnConfirm.addEventListener("click", () => {
     renderOrder();
+    scroll()
   });
   productBasket.appendChild(btnConfirm);
 }
@@ -331,3 +332,11 @@ function newOrder() {
 
   render();
 }
+
+function scroll() {
+  window.scrollTo({
+    top: 0,
+    behavior: "smooth",
+  });
+}
+ 
