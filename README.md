@@ -64,7 +64,7 @@ open index.html
 
 ## 📸 Screenshots
 
-(Add your screenshots here)
+(./Screenshot (169).png)
 
 ---
 
@@ -81,8 +81,8 @@ open index.html
 
 **Sohib Ezaldeen**
 
-* GitHub: https://github.com/your-username
-* LinkedIn: (Add your LinkedIn here)
+* GitHub: https://github.com/sohib-ezaldeen
+* LinkedIn: (https://www.linkedin.com/in/sohib-ezladeen)
 
 ---
 
