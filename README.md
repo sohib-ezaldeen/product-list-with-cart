@@ -55,7 +55,7 @@ QuickCart/
 
 ## 📸 Screenshots
 
-![QuickCart Screenshot](Screenshot(167).png)
+![QuickCart Screenshot](Screenshot20%(167).png)
 
 ---
 
